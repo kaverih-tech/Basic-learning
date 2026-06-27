@@ -1,1 +1,3 @@
 Today I am learning git
+
+today's date is June 27th
